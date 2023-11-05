@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Documents\Visual Studio 2017\Projects\Clase5\Clase5\bin\Debug\Clase5.exe.config
+C:\Users\Estudiante\Documents\Visual Studio 2017\Projects\Clase5\Clase5\bin\Debug\Clase5.exe
+C:\Users\Estudiante\Documents\Visual Studio 2017\Projects\Clase5\Clase5\bin\Debug\Clase5.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2017\Projects\Clase5\Clase5\obj\Debug\Clase5.csprojAssemblyReference.cache
+C:\Users\Estudiante\Documents\Visual Studio 2017\Projects\Clase5\Clase5\obj\Debug\Clase5.Form1.resources
+C:\Users\Estudiante\Documents\Visual Studio 2017\Projects\Clase5\Clase5\obj\Debug\Clase5.Properties.Resources.resources
+C:\Users\Estudiante\Documents\Visual Studio 2017\Projects\Clase5\Clase5\obj\Debug\Clase5.csproj.GenerateResource.cache
+C:\Users\Estudiante\Documents\Visual Studio 2017\Projects\Clase5\Clase5\obj\Debug\Clase5.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\Visual Studio 2017\Projects\Clase5\Clase5\obj\Debug\Clase5.exe
+C:\Users\Estudiante\Documents\Visual Studio 2017\Projects\Clase5\Clase5\obj\Debug\Clase5.pdb
